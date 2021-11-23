@@ -1,0 +1,12 @@
+/Users/vivekgupta/c#/BulkyBook/BulkyBook.Models/bin/Debug/net5.0/BulkyBook.Models.deps.json
+/Users/vivekgupta/c#/BulkyBook/BulkyBook.Models/bin/Debug/net5.0/BulkyBook.Models.dll
+/Users/vivekgupta/c#/BulkyBook/BulkyBook.Models/bin/Debug/net5.0/ref/BulkyBook.Models.dll
+/Users/vivekgupta/c#/BulkyBook/BulkyBook.Models/bin/Debug/net5.0/BulkyBook.Models.pdb
+/Users/vivekgupta/c#/BulkyBook/BulkyBook.Models/obj/Debug/net5.0/BulkyBook.Models.csproj.AssemblyReference.cache
+/Users/vivekgupta/c#/BulkyBook/BulkyBook.Models/obj/Debug/net5.0/BulkyBook.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vivekgupta/c#/BulkyBook/BulkyBook.Models/obj/Debug/net5.0/BulkyBook.Models.AssemblyInfoInputs.cache
+/Users/vivekgupta/c#/BulkyBook/BulkyBook.Models/obj/Debug/net5.0/BulkyBook.Models.AssemblyInfo.cs
+/Users/vivekgupta/c#/BulkyBook/BulkyBook.Models/obj/Debug/net5.0/BulkyBook.Models.csproj.CoreCompileInputs.cache
+/Users/vivekgupta/c#/BulkyBook/BulkyBook.Models/obj/Debug/net5.0/BulkyBook.Models.dll
+/Users/vivekgupta/c#/BulkyBook/BulkyBook.Models/obj/Debug/net5.0/ref/BulkyBook.Models.dll
+/Users/vivekgupta/c#/BulkyBook/BulkyBook.Models/obj/Debug/net5.0/BulkyBook.Models.pdb
