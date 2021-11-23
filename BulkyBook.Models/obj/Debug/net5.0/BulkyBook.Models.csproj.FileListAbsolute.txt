@@ -1,4 +1,6 @@
 /Users/vivekgupta/c#/BulkyBook/BulkyBook.Models/bin/Debug/net5.0/BulkyBook.Models.deps.json
+/Users/vivekgupta/c#/BulkyBook/BulkyBook.Models/bin/Debug/net5.0/BulkyBook.Models.runtimeconfig.json
+/Users/vivekgupta/c#/BulkyBook/BulkyBook.Models/bin/Debug/net5.0/BulkyBook.Models.runtimeconfig.dev.json
 /Users/vivekgupta/c#/BulkyBook/BulkyBook.Models/bin/Debug/net5.0/BulkyBook.Models.dll
 /Users/vivekgupta/c#/BulkyBook/BulkyBook.Models/bin/Debug/net5.0/ref/BulkyBook.Models.dll
 /Users/vivekgupta/c#/BulkyBook/BulkyBook.Models/bin/Debug/net5.0/BulkyBook.Models.pdb
@@ -10,3 +12,4 @@
 /Users/vivekgupta/c#/BulkyBook/BulkyBook.Models/obj/Debug/net5.0/BulkyBook.Models.dll
 /Users/vivekgupta/c#/BulkyBook/BulkyBook.Models/obj/Debug/net5.0/ref/BulkyBook.Models.dll
 /Users/vivekgupta/c#/BulkyBook/BulkyBook.Models/obj/Debug/net5.0/BulkyBook.Models.pdb
+/Users/vivekgupta/c#/BulkyBook/BulkyBook.Models/obj/Debug/net5.0/BulkyBook.Models.genruntimeconfig.cache

@@ -1,29 +1,37 @@
 ﻿<Properties StartupConfiguration="{9971A99B-50D9-4B98-A570-A1254CB64112}|Default">
   <MonoDevelop.Ide.ItemProperties.BulkyBook PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BulkyBook/Areas/Admin/Views/_ViewStart.cshtml">
-    <Files>
-      <File FileName="BulkyBook/Controllers/HomeController.cs" Line="22" Column="1" />
-      <File FileName="BulkyBook/Areas/Customer/Views/Home/Index.cshtml" Line="1" Column="1" />
-      <File FileName="BulkyBook/Areas/Customer/Views/Home/Privacy.cshtml" Line="1" Column="1" />
-      <File FileName="BulkyBook/Views/_ViewStart.cshtml" Line="1" Column="1" />
-      <File FileName="BulkyBook/Areas/Customer/Views/_ViewStart.cshtml" Line="4" Column="1" />
-      <File FileName="BulkyBook/Areas/Admin/Views/_ViewImports.cshtml" Line="1" Column="1" />
-      <File FileName="BulkyBook/Areas/Admin/Views/_ViewStart.cshtml" Line="1" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BulkyBook" expanded="True">
             <Node name="BulkyBook" expanded="True">
               <Node name="Areas" expanded="True">
-                <Node name="Admin" expanded="True" />
+                <Node name="Admin" expanded="True">
+                  <Node name="Controllers" expanded="True" />
+                  <Node name="Views" expanded="True">
+                    <Node name="Category" expanded="True">
+                      <Node name="Index.cshtml" selected="True" />
+                    </Node>
+                  </Node>
+                </Node>
                 <Node name="Customer" expanded="True">
-                  <Node name="Views" expanded="True" />
+                  <Node name="Controllers" expanded="True" />
+                  <Node name="Views" expanded="True">
+                    <Node name="Home" expanded="True" />
+                  </Node>
                 </Node>
               </Node>
-              <Node name="Controllers" selected="True" />
-              <Node name="Views" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Shared" expanded="True" />
+              </Node>
             </Node>
+            <Node name="BulkyBook.DataAccess" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Repository" expanded="True" />
+            </Node>
+            <Node name="BulkyBook.Models" expanded="True" />
+            <Node name="BulkyBook.Utility" expanded="True" />
           </Node>
         </State>
       </Pad>
